@@ -1,0 +1,4 @@
+C:\Users\user\source\repos\Calculatrice\Calculatrice.Tests\obj\Debug\netcoreapp3.1\Calculatrice.Tests.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Calculatrice\Calculatrice.Tests\obj\Debug\netcoreapp3.1\Calculatrice.Tests.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Calculatrice\Calculatrice.Tests\obj\Debug\netcoreapp3.1\Calculatrice.Tests.AssemblyInfo.cs
+C:\Users\user\source\repos\Calculatrice\Calculatrice.Tests\obj\Debug\netcoreapp3.1\Calculatrice.Tests.csproj.CoreCompileInputs.cache
